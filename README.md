@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Tania, currently studying in 42 Wolfsburg :) 👋
 
 
 [![tfedoren's 42 stats](https://badge42.herokuapp.com/api/stats/tfedoren?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
