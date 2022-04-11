@@ -1,8 +1,6 @@
 ### Hi there! I'm Tania, currently studying in 42 Wolfsburg :) 👋
 
 
-[![tfedoren's 42 stats](https://badge42.herokuapp.com/api/stats/tfedoren?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
-<!--
 **tfedorenko/tfedorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
